@@ -13,3 +13,5 @@ Wildfire detection visualization
 Weather condition monitoring
 
 Machine learning–based fire risk prediction
+
+website URL: https://siddarthvarma2000k.wixsite.com/my-site-8
